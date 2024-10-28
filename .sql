@@ -1,1 +1,2 @@
 purchase_cost
+ajout varianble rounding_results
